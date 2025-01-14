@@ -275,6 +275,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Pixvify AI](https://pixvify.com/) - Free realistic AI photo generator platform
 - [Pawtrait](https://www.pawtrait.art/) - AI Pet Portraits
 - [iColoring](https://icoloring.ai) - Free AI Coloring Pages Generator
+- [Aragon](https://www.aragon.ai) - Turn selfies or photos into studio-quality professional headshots. Skip the need for a physical photoshoot and get your headshots within minutes.
 
 
 ### Graphic design
